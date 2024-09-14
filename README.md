@@ -6,17 +6,17 @@ This is a website for the **Bankist Web App** project. It provides a modern bank
 ## Website Pictures
 The following images are included to provide visual references for the web app:
 
-1. **Main Page**
-   - File: `mainPage.png`
-   - Description: The main landing page of the Bankist Web App, showcasing the overall layout and design.
+### Main Page
+![Main Page](Website-Pictures/mainPage.png)
+*Description: The main landing page of the Bankist Web App, showcasing the overall layout and design.*
 
-2. **Component**
-   - File: `Component.png`
-   - Description: A screenshot of one of the core components used in the application, highlighting its functionality and interaction.
+### Component
+![Component](Website-Pictures/Component.png)
+*Description: A screenshot of one of the core components used in the application, highlighting its functionality and interaction.*
 
-3. **Testimonial Section**
-   - File: `Testimonial.png`
-   - Description: A section of the website displaying customer testimonials, helping to build trust and credibility.
+### Testimonial Section
+![Testimonial](Website-Pictures/Testimonial.png)
+*Description: A section of the website displaying customer testimonials, helping to build trust and credibility.*
 
 ## Technologies Used
 - HTML5
