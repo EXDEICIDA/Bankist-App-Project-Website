@@ -22,7 +22,6 @@ The following images are included to provide visual references for the web app:
 - HTML5
 - CSS3
 - JavaScript
-- Any additional libraries or frameworks you are using (e.g., React, Angular, etc.)
 
 ## Future Enhancements
 - Adding additional features such as user authentication, transaction history, and more.
